@@ -1,0 +1,379 @@
+*, *::after, *::before {
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'DINPro-Light';
+  src: url("../fonts/DINPro-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/DINPro-Light.otf") format("opentype"), url("../fonts/DINPro-Light.woff") format("woff"), url("../fonts/DINPro-Light.ttf") format("truetype"), url("../fonts/DINPro-Light.svg#DINPro-Light") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'DINPro-Bold';
+  src: url("../fonts/DINPro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/DINPro-Bold.otf") format("opentype"), url("../fonts/DINPro-Bold.woff") format("woff"), url("../fonts/DINPro-Bold.ttf") format("truetype"), url("../fonts/DINPro-Bold.svg#DINPro-Bold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'FetteEngD';
+  src: url("../fonts/FetteEngD.eot?#iefix") format("embedded-opentype"), url("../fonts/FetteEngD.otf") format("opentype"), url("../fonts/FetteEngD.woff") format("woff"), url("../fonts/FetteEngD.ttf") format("truetype"), url("../fonts/FetteEngD.svg#FetteEngD") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+body {
+  font-family: 'DINPro-Light';
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center; }
+
+main {
+  background: #79777C;
+  width: 100vw;
+  max-width: 100vw !important; }
+
+a {
+  outline: none;
+  color: #D29E06;
+  text-decoration: none; }
+
+a:hover, a:focus {
+  color: #fff; }
+
+.hidden {
+  position: absolute;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+  pointer-events: none; }
+
+.message {
+  font-weight: bold;
+  color: #914a58;
+  background: #f0d4d8;
+  font-size: 0.85em;
+  margin: 0;
+  padding: 1em;
+  display: none; }
+
+/* Icons */
+.icon-link {
+  padding: 0 0.5em;
+  margin: 0 0 0 auto;
+  font-size: 0.85em;
+  white-space: nowrap; }
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 auto;
+  fill: currentColor; }
+
+.icon-text {
+  line-height: 1;
+  vertical-align: middle;
+  padding: 0.35em;
+  font-weight: bold;
+  display: inline-block; }
+
+main {
+  max-width: 1885px;
+  display: inline-block;
+  margin: 0 auto;
+  position: relative;
+  text-align: left; }
+
+header {
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 20px 0;
+  padding: 0 20px; }
+
+/* Content */
+.content {
+  background: #28282f; }
+
+.content__inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 8em 10% 4em; }
+
+.content__title,
+.content__subtitle {
+  font-family: 'DINPro-Bold'; }
+
+.content__title {
+  font-size: 3em;
+  margin: 0; }
+
+.content__subtitle {
+  font-size: 2em;
+  font-weight: normal;
+  margin: 0.25em 0 0;
+  color: #9f9da7; }
+
+.content p {
+  font-size: 1.175em;
+  line-height: 1.6;
+  margin: 1.5em 0; }
+
+p.margin-paragraph {
+  margin: 8em 0 1.5em; }
+
+/* Related demos */
+.content--related {
+  padding: 4em 1em;
+  text-align: center;
+  font-weight: bold;
+  background: #1c1c21;
+  color: #495050; }
+
+.content--related a:hover,
+.content--related a:focus {
+  color: #fff; }
+
+.media-item {
+  display: inline-block;
+  padding: 1em;
+  vertical-align: top;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s; }
+
+.media-item__img {
+  max-width: 100%;
+  opacity: 0.3;
+  -webkit-transition: opacity 0.3s;
+  transition: opacity 0.3s; }
+
+.media-item:hover .media-item__img,
+.media-item:focus .media-item__img {
+  opacity: 1; }
+
+.media-item__title {
+  margin: 0;
+  padding: 0.5em;
+  font-size: 1em; }
+
+@media screen and (min-width: 52.375em) {
+  .point-mobile a {
+    display: none; }
+  .pater {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    padding: 2.5em 1em 1em;
+    -webkit-transform: translate3d(0, 3.5em, 0);
+    transform: translate3d(0, 3.5em, 0);
+    -webkit-transition: background 0.3s, -webkit-transform 0.3s;
+    transition: background 0.3s, -webkit-transform 0.3s;
+    transition: background 0.3s, transform 0.3s;
+    transition: background 0.3s, transform 0.3s, -webkit-transform 0.3s; }
+  .points-content--open ~ .pater {
+    pointer-events: none;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0); }
+  .pater:focus,
+  .pater:hover {
+    background: #D29E06;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0); }
+  .pater__img {
+    -webkit-transform-origin: 0% 50%;
+    transform-origin: 0% 50%;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    -webkit-transition: -webkit-transform 0.3s;
+    transition: -webkit-transform 0.3s;
+    transition: transform 0.3s;
+    transition: transform 0.3s, -webkit-transform 0.3s; }
+  .pater:focus .pater__img,
+  .pater:hover .pater__img {
+    -webkit-transform: scale(1);
+    transform: scale(1); }
+  .pater__description {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 1em, 0);
+    transform: translate3d(0, 1em, 0);
+    -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+    transition: opacity 0.3s, -webkit-transform 0.3s;
+    transition: opacity 0.3s, transform 0.3s;
+    transition: opacity 0.3s, transform 0.3s, -webkit-transform 0.3s; }
+  .pater:focus .pater__description,
+  .pater:hover .pater__description {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity: 1; }
+  .pater--responsive {
+    display: none; } }
+
+@media screen and (max-width: 52.375em) {
+  .codrops-header {
+    padding: 0.25em;
+    font-size: 0.65em; }
+  .codrops-header__tagline {
+    display: none; }
+  .content {
+    font-size: 0.75em; }
+  .message {
+    display: block; }
+  .points-additional {
+    display: none; } }
+
+.point-content__text i {
+  font-size: 2em; }
+
+.modules.catalog-header .header-wrapper.horizontal {
+  min-height: 820px; }
+
+.modules.catalog-header .header-wrapper {
+  background: #000;
+  color: #fff;
+  position: relative; }
+
+.modules.catalog-header .header-wrapper:before {
+  top: 30px; }
+
+.pattern--decoration-vertical:before {
+  background-image: url(https://www.adam-audio.com/content/themes/adamaudio-website/assets/images/decoration-6f924b6848.svg);
+  background-repeat: repeat;
+  background-size: 60px 328px;
+  content: "";
+  height: 80%;
+  left: 0;
+  max-height: 328px;
+  position: absolute;
+  width: 60px;
+  z-index: 20; }
+
+.modules.catalog-header .content {
+  padding: 30px 5% 30px 10%;
+  position: relative;
+  z-index: 2;
+  background-color: #070707;
+  text-align: left;
+  text-transform: uppercase; }
+
+.modules.catalog-header .headline-subtitle, .modules.catalog-header .headline-title {
+  margin: 0;
+  padding: 0; }
+
+.h1.focus, h1.focus {
+  color: #fff;
+  font-size: 144px;
+  line-height: 1;
+  letter-spacing: 8px;
+  padding-top: 35px; }
+
+.pattern--image-border:after {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-color: #c89e0e;
+  bottom: 0;
+  content: "";
+  height: 8px;
+  left: 0;
+  opacity: .5;
+  pointer-events: none;
+  position: absolute;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  width: 100%;
+  z-index: 2; }
+
+.map-text {
+  background: white; }
+
+.catalog-header {
+  font-family: 'FetteEngD'; }
+
+.adam-styleguide__section-text, .adam-overview__text {
+  margin: 50px 0;
+  color: #9a9a9a;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: .2px;
+  line-height: 1.6;
+  text-align: left;
+  z-index: 100; }
+
+.adam-overview {
+  margin: 100px 0;
+  padding: 0 20px; }
+
+.adam-overview__text h1 {
+  color: #1d1d1d;
+  font-family: 'FetteEngD';
+  line-height: 1.2;
+  margin: 0;
+  text-transform: uppercase; }
+
+.btn-primary, .btn-secondary, .btn-tertiary {
+  background-color: transparent;
+  border: 2px solid #1d1d1d;
+  border-radius: 0;
+  color: #1d1d1d;
+  display: inline-block;
+  letter-spacing: 2px;
+  line-height: 1;
+  font-family: DINEngschriftStd,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  min-width: 90px;
+  padding: 13px 12px 13px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: normal;
+  font-family: 'DINPro-Bold';
+  -webkit-transition: none;
+  transition: none;
+  margin: 20px 0; }
+
+.btn-primary:active:focus, .btn-primary:focus, .btn-primary:hover, .btn-primary:hover:focus, .btn-secondary:active:focus, .btn-secondary:focus, .btn-secondary:hover, .btn-secondary:hover:focus, .btn-tertiary:active:focus, .btn-tertiary:focus, .btn-tertiary:hover, .btn-tertiary:hover:focus {
+  background-color: #1d1d1d;
+  border-color: #1d1d1d;
+  color: #fff;
+  text-decoration: none; }
+
+.btn-tertiary {
+  background-color: #f8f8f8;
+  border-color: #f8f8f8;
+  color: #1d1d1d; }
+
+.btn-tertiary:hover, .btn-tertiary:hover:focus {
+  background-color: #1d1d1d;
+  border-color: #1d1d1d;
+  color: #fff;
+  text-decoration: none; }
+
+.point-mobile a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute; }
+
+.point-additional {
+  background-size: cover;
+  background-position: center center;
+  position: relative; }
+
+.overflow-cover {
+  background-color: #000;
+  opacity: .75;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.points-additional .point-content {
+  display: block;
+  opacity: 1;
+  text-align: left; }
+
+.points-additional .static {
+  opacity: 0; }
