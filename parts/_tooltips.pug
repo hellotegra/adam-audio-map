@@ -1,0 +1,11 @@
+mixin tooltip(date, name)
+	.point-tooltip
+			h2.point-tooltip__title= name
+			br
+			p.point-tooltip__description= date
+
+include _data
+
+.points-tooltips
+	for tooltip in data
+		+tooltip(tooltip.date, tooltip.name)

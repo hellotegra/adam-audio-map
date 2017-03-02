@@ -1,0 +1,10 @@
+mixin background(name, photoUrl, rsvp)
+	.background__element(style=`background-image: url(img/${photoUrl})`)
+		.point-mobile
+			a(href=rsvp)
+
+include _data
+
+.backgrounds
+	for background in data
+		+background(background.name, background.background, background.rsvp)

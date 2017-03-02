@@ -1,0 +1,45 @@
+extends parts/_head
+
+block content
+	body
+		include parts/_header-info
+
+		main
+			p.message Please view this demo on a larger screen.
+			section#interactive-1.interactive-points(tabindex='0')
+				img.static(src='img/map.png')
+				
+				include parts/_backgrounds
+
+				include parts/_points
+
+				include parts/_tooltips
+
+				include parts/_contents
+
+		section.points-additional
+			include parts/_contents-additional
+
+
+
+		script(src='js/lunar.js')
+		script(src='js/imagesloaded.pkgd.min.js')
+		script(src='js/main.js')
+		script.
+			(function() {
+			new PointsMap(document.querySelector('#interactive-1'), {
+			// Maximum opacity that the background element of
+			// a point can have when active (mouse gets closer to it)
+			// maxOpacityOnActive : 0.75,
+			maxOpacityOnActive : 1,
+			// The distance from the mouse pointer to
+			// a point where the opacity of the background element is 0
+			maxDistance : 5,
+			// If viewportFactor is different than -1, then maxDistance
+			// will be overwritten by [point´s parent width / viewportFactor]
+			viewportFactor : 50,
+			// When the mouse is [activeOn]px away from
+			// one point, its image gets opacity = point.options.maxOpacity.
+			activeOn : 5
+			});
+			})();

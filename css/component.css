@@ -72,8 +72,8 @@
 
 .point--active {
 	fill: #D29E06;
-	-webkit-transform: scale3d(0.75, 0.75, 1);
-	transform: scale3d(0.75, 0.75, 1);
+	-webkit-transform: scale3d(1.2, 1.2, 1);
+	transform: scale3d(1.2, 1.2, 1);
 }
 
 .point--hide {

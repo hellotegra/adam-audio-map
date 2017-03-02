@@ -1,0 +1,48 @@
+mixin content(name, date, address, phone, studioLink, studioName, rsvp, time, notes, about, credits)
+	.point-content
+		.point-content__logo
+			include _content-logotype
+		.point-content__info
+			h3.point-content__title= name
+			p.point-content__subtitle= date 
+			p.point-content__text Address: #{address}
+			p.point-content__text Phone: #{phone}
+			p.point-content__text Studio:
+				a(href=studioLink)= studioName
+			p.point-content__text RSVP: 
+				a(href=rsvp)= rsvp
+			p.point-content__text Hours: #{time}
+			p.point-content__text Links:
+				a(href='https://www.facebook.com/AdamProAudio/')
+					i.fa.fa-facebook-official(aria-hidden='true')
+				a(href='https://www.instagram.com/adam_audio/')
+					i.fa.fa-instagram(aria-hidden='true')
+				a(href='http://adamaudio.tumblr.com')
+					i.fa.fa-tumblr-square(aria-hidden='true')
+				a(href='https://twitter.com/ADAM_Audio')
+					i.fa.fa-twitter-square(aria-hidden='true')
+				a(href='https://www.youtube.com/channel/UCofDcGEcoR6Zjwja_BZF_Kw')
+					i.fa.fa-youtube-play(aria-hidden='true')
+			p.point-content__text About the venue: #{about}
+			if(notes!='')
+				p.point-content__text Notes: #{notes}
+			if(credits!='')
+				p.point-content__text Partial Credits: #{credits}
+
+include _data
+
+.points-content
+	for card in data
+		+content(
+			card.name,
+			card.date,
+			card.address,
+			card.phone,
+			card.studioLink,
+			card.studioName,
+			card.rsvp,
+			card.time,
+			card.notes,
+			card.description,
+			card.credits
+		)

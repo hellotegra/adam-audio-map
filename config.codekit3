@@ -7,7 +7,7 @@
 		"uuidString": "2A00AB17-7947-4677-8B36-08CA2467D389"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25568",
 "files": {
 	"\/css\/component-min.css": {
 		"aP": 1,
@@ -58,6 +58,76 @@
 		"oAP": "\/css\/normalize-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/Design\/Adam Audio - Interactive map.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Design\/Adam Audio - Interactive map.sketch",
+		"oF": 0
+		},
+	"\/Design\/Behance\/about-tour.jpg": {
+		"ft": 16384,
+		"iS": 331543,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/about-tour.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/brand-styles.jpg": {
+		"ft": 16384,
+		"iS": 450854,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/brand-styles.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/hover-effect-on-event.jpg": {
+		"ft": 16384,
+		"iS": 2770962,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/hover-effect-on-event.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/information-about-event.jpg": {
+		"ft": 16384,
+		"iS": 2062520,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/information-about-event.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/map-with-all-events.jpg": {
+		"ft": 16384,
+		"iS": 396155,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/map-with-all-events.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/parts\/header.jpg": {
+		"ft": 16384,
+		"iS": 178001,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/parts\/header.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/Preview | Adam Audio - Interactive Map.png": {
+		"ft": 32768,
+		"iS": 50300,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/Preview | Adam Audio - Interactive Map.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Design\/Behance\/thanks.jpg": {
+		"ft": 16384,
+		"iS": 45887,
+		"oA": 0,
+		"oAP": "\/Design\/Behance\/thanks.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/fonts\/DINPro-Bold.eot": {
 		"ft": 8192,
@@ -161,179 +231,59 @@
 		"oAP": "\/fonts\/FetteEngD.woff",
 		"oF": 0
 		},
-	"\/img\/1.jpg": {
-		"ft": 16384,
-		"iS": 621496,
-		"oA": 0,
-		"oAP": "\/img\/1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/10.jpg": {
-		"ft": 16384,
-		"iS": 443410,
-		"oA": 0,
-		"oAP": "\/img\/10.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/11.jpg": {
-		"ft": 16384,
-		"iS": 530973,
-		"oA": 0,
-		"oAP": "\/img\/11.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/12.jpg": {
-		"ft": 16384,
-		"iS": 425433,
-		"oA": 0,
-		"oAP": "\/img\/12.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/13.jpg": {
-		"ft": 16384,
-		"iS": 88877,
-		"oA": 0,
-		"oAP": "\/img\/13.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/14.jpg": {
-		"ft": 16384,
-		"iS": 1776026,
-		"oA": 0,
-		"oAP": "\/img\/14.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/15.jpg": {
-		"ft": 16384,
-		"iS": 142442,
-		"oA": 0,
-		"oAP": "\/img\/15.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/16.jpeg": {
+	"\/img\/25thStreet.jpeg": {
 		"ft": 16384,
 		"iS": 9179824,
 		"oA": 0,
-		"oAP": "\/img\/16.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/17.jpeg": {
-		"ft": 16384,
-		"iS": 66953,
-		"oA": 0,
-		"oAP": "\/img\/17.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/18.jpg": {
-		"ft": 16384,
-		"iS": 209365,
-		"oA": 0,
-		"oAP": "\/img\/18.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/19.jpg": {
-		"ft": 16384,
-		"iS": 214006,
-		"oA": 0,
-		"oAP": "\/img\/19.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/2.jpg": {
-		"ft": 16384,
-		"iS": 88050,
-		"oA": 0,
-		"oAP": "\/img\/2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/20.jpg": {
-		"ft": 16384,
-		"iS": 286229,
-		"oA": 0,
-		"oAP": "\/img\/20.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/21.png": {
-		"ft": 32768,
-		"iS": 237724,
-		"oA": 0,
-		"oAP": "\/img\/21.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/3.jpg": {
-		"ft": 16384,
-		"iS": 90422,
-		"oA": 0,
-		"oAP": "\/img\/3.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/4.jpg": {
-		"ft": 16384,
-		"iS": 246531,
-		"oA": 0,
-		"oAP": "\/img\/4.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/5.jpg": {
-		"ft": 16384,
-		"iS": 246531,
-		"oA": 0,
-		"oAP": "\/img\/5.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/6.jpg": {
-		"ft": 16384,
-		"iS": 82265,
-		"oA": 0,
-		"oAP": "\/img\/6.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/img\/7.jpg": {
-		"ft": 16384,
-		"iS": 1793260,
-		"oA": 0,
-		"oAP": "\/img\/7.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/8.jpeg": {
-		"ft": 16384,
-		"iS": 612023,
-		"oA": 0,
-		"oAP": "\/img\/8.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/9.jpg": {
-		"ft": 16384,
-		"iS": 333215,
-		"oA": 0,
-		"oAP": "\/img\/9.jpg",
+		"oAP": "\/img\/25thStreet.jpg",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/img\/AA_logo_tour.png": {
 		"ft": 32768,
 		"iS": 14287,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/img\/AA_logo_tour.png",
+		"oF": 1,
+		"opt": 1
+		},
+	"\/img\/ArlynStudios.jpg": {
+		"ft": 16384,
+		"iS": 246531,
+		"oA": 0,
+		"oAP": "\/img\/ArlynStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/AudioVision.jpg": {
+		"ft": 16384,
+		"iS": 62083,
+		"oA": 0,
+		"oAP": "\/img\/AudioVision.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/BedrockRecording.jpg": {
+		"ft": 16384,
+		"iS": 643518,
+		"oA": 0,
+		"oAP": "\/img\/BedrockRecording.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/BunkerStudio.jpg": {
+		"ft": 16384,
+		"iS": 209365,
+		"oA": 0,
+		"oAP": "\/img\/BunkerStudio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/ChicagoRecordingCompany.jpeg": {
+		"ft": 16384,
+		"iS": 612023,
+		"oA": 0,
+		"oAP": "\/img\/ChicagoRecordingCompany.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -348,26 +298,146 @@
 		"iS": 293,
 		"oA": 0,
 		"oAP": "\/img\/close.png",
+		"oF": 2,
+		"opt": 1
+		},
+	"\/img\/EastsideSound.jpg": {
+		"ft": 16384,
+		"iS": 83441,
+		"oA": 0,
+		"oAP": "\/img\/EastsideSound.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/GermanoStudios.jpg": {
+		"ft": 16384,
+		"iS": 152234,
+		"oA": 0,
+		"oAP": "\/img\/GermanoStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/Henson.jpg": {
+		"ft": 16384,
+		"iS": 286229,
+		"oA": 0,
+		"oAP": "\/img\/Henson.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/HydeStreet.jpg": {
+		"ft": 16384,
+		"iS": 88050,
+		"oA": 0,
+		"oAP": "\/img\/HydeStreet.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/JackpotRecording.jpg": {
+		"ft": 16384,
+		"iS": 90422,
+		"oA": 0,
+		"oAP": "\/img\/JackpotRecording.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/LogCabin.jpg": {
+		"ft": 16384,
+		"iS": 1239546,
+		"oA": 0,
+		"oAP": "\/img\/LogCabin.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/MadOakStudios.jpg": {
+		"ft": 16384,
+		"iS": 78969,
+		"oA": 0,
+		"oAP": "\/img\/MadOakStudios.jpg",
 		"oF": 0,
 		"opt": 0
 		},
 	"\/img\/map.png": {
 		"ft": 32768,
-		"iS": 242283,
+		"iS": 198845,
 		"oA": 0,
 		"oAP": "\/img\/map.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 0
+		},
+	"\/img\/marker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/marker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/MixOneStudios.png": {
+		"ft": 32768,
+		"iS": 1853008,
+		"oA": 0,
+		"oAP": "\/img\/MixOneStudios.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/Mpk.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/img\/Mpk.sketch",
+		"oF": 0
+		},
+	"\/img\/NRGStudios.jpg": {
+		"ft": 16384,
+		"iS": 117367,
+		"oA": 0,
+		"oAP": "\/img\/NRGStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/OmegaStudios.jpg": {
+		"ft": 16384,
+		"iS": 1818631,
+		"oA": 0,
+		"oAP": "\/img\/OmegaStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/OrbitAudio.jpg": {
+		"ft": 16384,
+		"iS": 621496,
+		"oA": 0,
+		"oAP": "\/img\/OrbitAudio.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/Patchwerk.jpg": {
+		"ft": 16384,
+		"iS": 746648,
+		"oA": 0,
+		"oAP": "\/img\/Patchwerk.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/pins.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/pins.svg",
-		"oF": 0,
+		"oF": 2,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/PlushStudios.jpg": {
+		"ft": 16384,
+		"iS": 142442,
+		"oA": 0,
+		"oAP": "\/img\/PlushStudios.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/related\/ImageTiltEffect.jpg": {
 		"ft": 16384,
@@ -385,6 +455,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/RobertLangStudios.jpeg": {
+		"ft": 16384,
+		"iS": 66953,
+		"oA": 0,
+		"oAP": "\/img\/RobertLangStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/RoyalHouseRecording.jpg": {
+		"ft": 16384,
+		"iS": 315064,
+		"oA": 0,
+		"oAP": "\/img\/RoyalHouseRecording.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/SoundProductions.jpg": {
+		"ft": 16384,
+		"iS": 290174,
+		"oA": 0,
+		"oAP": "\/img\/SoundProductions.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/sponsor\/AcuityScheduling_logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -394,6 +488,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/Swinghouse.jpg": {
+		"ft": 16384,
+		"iS": 88877,
+		"oA": 0,
+		"oAP": "\/img\/Swinghouse.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/tests\/map.png": {
 		"ft": 32768,
@@ -423,11 +525,51 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/TheBridgeRecording.jpg": {
+		"ft": 16384,
+		"iS": 195968,
+		"oA": 0,
+		"oAP": "\/img\/TheBridgeRecording.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/VintageKing.jpg": {
+		"ft": 16384,
+		"iS": 218328,
+		"oA": 0,
+		"oAP": "\/img\/VintageKing.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/WestlakePro.png": {
+		"ft": 32768,
+		"iS": 237724,
+		"oA": 0,
+		"oAP": "\/img\/WestlakePro.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/WireRoadStudios.jpg": {
+		"ft": 16384,
+		"iS": 2396356,
+		"oA": 0,
+		"oAP": "\/img\/WireRoadStudios.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/index.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/js\/imagesloaded.pkgd.min.js": {
 		"ft": 64,
@@ -455,6 +597,78 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/parts\/_backgrounds.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_backgrounds.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_content-logotype.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_content-logotype.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_contents-additional.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_contents-additional.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_contents.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_contents.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_data.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_data.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_head.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_head.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_header-info.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_header-info.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_points.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_points.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/parts\/_tooltips.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/parts\/_tooltips.html",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/svg\/logotype.svg": {
 		"ft": 2097152,
@@ -1357,6 +1571,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -1685,6 +1903,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
 		"prefer-rest-params": {
 			"active": 0,
 			"optionString": ""
@@ -1778,6 +2000,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
