@@ -9,6 +9,26 @@
 	],
 "creatorBuild": "25568",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/.vscode\/settings.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.vscode\/settings-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/circle.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/circle.yml",
+		"oF": 0
+		},
 	"\/css\/component-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -58,76 +78,6 @@
 		"oAP": "\/css\/normalize-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/Design\/Adam Audio - Interactive map.sketch": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Design\/Adam Audio - Interactive map.sketch",
-		"oF": 0
-		},
-	"\/Design\/Behance\/about-tour.jpg": {
-		"ft": 16384,
-		"iS": 331543,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/about-tour.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/brand-styles.jpg": {
-		"ft": 16384,
-		"iS": 450854,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/brand-styles.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/hover-effect-on-event.jpg": {
-		"ft": 16384,
-		"iS": 2770962,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/hover-effect-on-event.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/information-about-event.jpg": {
-		"ft": 16384,
-		"iS": 2062520,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/information-about-event.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/map-with-all-events.jpg": {
-		"ft": 16384,
-		"iS": 396155,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/map-with-all-events.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/parts\/header.jpg": {
-		"ft": 16384,
-		"iS": 178001,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/parts\/header.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/Preview | Adam Audio - Interactive Map.png": {
-		"ft": 32768,
-		"iS": 50300,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/Preview | Adam Audio - Interactive Map.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Design\/Behance\/thanks.jpg": {
-		"ft": 16384,
-		"iS": 45887,
-		"oA": 0,
-		"oAP": "\/Design\/Behance\/thanks.jpg",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/fonts\/DINPro-Bold.eot": {
 		"ft": 8192,
@@ -669,6 +619,24 @@
 		"oAP": "\/parts\/_tooltips.html",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/svg\/logotype.svg": {
 		"ft": 2097152,
