@@ -5,4 +5,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync . s3://aws-website-protegraco-tlm8f/adam-audio-map/ --delete
+      - aws s3 sync . s3://tegra.design/adam-audio-map/ --delete
