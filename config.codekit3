@@ -23,6 +23,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/circle.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -66,6 +72,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/demo-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/normalize-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/normalize-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -187,6 +203,14 @@
 		"oA": 0,
 		"oAP": "\/img\/25thStreet.jpg",
 		"oF": 0,
+		"opt": 1
+		},
+	"\/img\/25thStreet.jpg": {
+		"ft": 16384,
+		"iS": 8451539,
+		"oA": 0,
+		"oAP": "\/img\/25thStreet.jpg",
+		"oF": 0,
 		"opt": 0
 		},
 	"\/img\/AA_logo_tour.png": {
@@ -203,7 +227,7 @@
 		"oA": 0,
 		"oAP": "\/img\/ArlynStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/AudioVision.jpg": {
 		"ft": 16384,
@@ -227,7 +251,7 @@
 		"oA": 0,
 		"oAP": "\/img\/BunkerStudio.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/ChicagoRecordingCompany.jpeg": {
 		"ft": 16384,
@@ -251,13 +275,21 @@
 		"oF": 2,
 		"opt": 1
 		},
+	"\/img\/Deafmule.jpg": {
+		"ft": 16384,
+		"iS": 35405,
+		"oA": 0,
+		"oAP": "\/img\/Deafmule.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/EastsideSound.jpg": {
 		"ft": 16384,
 		"iS": 83441,
 		"oA": 0,
 		"oAP": "\/img\/EastsideSound.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/GermanoStudios.jpg": {
 		"ft": 16384,
@@ -265,7 +297,7 @@
 		"oA": 0,
 		"oAP": "\/img\/GermanoStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/Henson.jpg": {
 		"ft": 16384,
@@ -273,7 +305,7 @@
 		"oA": 0,
 		"oAP": "\/img\/Henson.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/HydeStreet.jpg": {
 		"ft": 16384,
@@ -289,7 +321,7 @@
 		"oA": 0,
 		"oAP": "\/img\/JackpotRecording.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/LogCabin.jpg": {
 		"ft": 16384,
@@ -297,7 +329,7 @@
 		"oA": 0,
 		"oAP": "\/img\/LogCabin.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/MadOakStudios.jpg": {
 		"ft": 16384,
@@ -313,7 +345,7 @@
 		"oA": 0,
 		"oAP": "\/img\/map.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/marker.svg": {
 		"ft": 2097152,
@@ -331,7 +363,7 @@
 		"oA": 0,
 		"oAP": "\/img\/MixOneStudios.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/Mpk.sketch": {
 		"ft": 8192,
@@ -345,7 +377,7 @@
 		"oA": 0,
 		"oAP": "\/img\/NRGStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/OmegaStudios.jpg": {
 		"ft": 16384,
@@ -361,7 +393,7 @@
 		"oA": 0,
 		"oAP": "\/img\/OrbitAudio.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/Patchwerk.jpg": {
 		"ft": 16384,
@@ -369,7 +401,7 @@
 		"oA": 0,
 		"oAP": "\/img\/Patchwerk.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/pins.svg": {
 		"ft": 2097152,
@@ -387,7 +419,7 @@
 		"oA": 0,
 		"oAP": "\/img\/PlushStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/related\/ImageTiltEffect.jpg": {
 		"ft": 16384,
@@ -403,7 +435,7 @@
 		"oA": 0,
 		"oAP": "\/img\/related\/TooltipStylesInspiration.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/RobertLangStudios.jpeg": {
 		"ft": 16384,
@@ -427,7 +459,7 @@
 		"oA": 0,
 		"oAP": "\/img\/SoundProductions.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/sponsor\/AcuityScheduling_logo.svg": {
 		"ft": 2097152,
@@ -481,7 +513,7 @@
 		"oA": 0,
 		"oAP": "\/img\/TheBridgeRecording.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/VintageKing.jpg": {
 		"ft": 16384,
@@ -489,7 +521,7 @@
 		"oA": 0,
 		"oAP": "\/img\/VintageKing.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/WestlakePro.png": {
 		"ft": 32768,
@@ -497,7 +529,7 @@
 		"oA": 0,
 		"oAP": "\/img\/WestlakePro.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/WireRoadStudios.jpg": {
 		"ft": 16384,
