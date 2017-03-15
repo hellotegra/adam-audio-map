@@ -7,7 +7,7 @@
 		"uuidString": "2A00AB17-7947-4677-8B36-08CA2467D389"
 		}
 	],
-"creatorBuild": "25568",
+"creatorBuild": "25704",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -203,7 +203,8 @@
 		"oA": 0,
 		"oAP": "\/img\/25thStreet.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/25thStreet.jpg": {
 		"ft": 16384,
@@ -211,15 +212,18 @@
 		"oA": 0,
 		"oAP": "\/img\/25thStreet.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/AA_logo_tour.png": {
 		"ft": 32768,
 		"iS": 14287,
+		"l": 1,
 		"oA": 1,
 		"oAP": "\/img\/AA_logo_tour.png",
 		"oF": 1,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/ArlynStudios.jpg": {
 		"ft": 16384,
@@ -227,7 +231,8 @@
 		"oA": 0,
 		"oAP": "\/img\/ArlynStudios.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/AudioVision.jpg": {
 		"ft": 16384,
@@ -235,7 +240,8 @@
 		"oA": 0,
 		"oAP": "\/img\/AudioVision.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/BedrockRecording.jpg": {
 		"ft": 16384,
@@ -243,7 +249,8 @@
 		"oA": 0,
 		"oAP": "\/img\/BedrockRecording.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/BunkerStudio.jpg": {
 		"ft": 16384,
@@ -251,7 +258,8 @@
 		"oA": 0,
 		"oAP": "\/img\/BunkerStudio.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/ChicagoRecordingCompany.jpeg": {
 		"ft": 16384,
@@ -259,7 +267,8 @@
 		"oA": 0,
 		"oAP": "\/img\/ChicagoRecordingCompany.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/close.cur": {
 		"ft": 8192,
@@ -270,10 +279,12 @@
 	"\/img\/close.png": {
 		"ft": 32768,
 		"iS": 293,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/close.png",
 		"oF": 2,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/Deafmule.jpg": {
 		"ft": 16384,
@@ -281,7 +292,8 @@
 		"oA": 0,
 		"oAP": "\/img\/Deafmule.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/EastsideSound.jpg": {
 		"ft": 16384,
@@ -289,7 +301,8 @@
 		"oA": 0,
 		"oAP": "\/img\/EastsideSound.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/GermanoStudios.jpg": {
 		"ft": 16384,
@@ -297,7 +310,8 @@
 		"oA": 0,
 		"oAP": "\/img\/GermanoStudios.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/Henson.jpg": {
 		"ft": 16384,
@@ -305,7 +319,8 @@
 		"oA": 0,
 		"oAP": "\/img\/Henson.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/HydeStreet.jpg": {
 		"ft": 16384,
@@ -313,7 +328,8 @@
 		"oA": 0,
 		"oAP": "\/img\/HydeStreet.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/JackpotRecording.jpg": {
 		"ft": 16384,
@@ -321,7 +337,8 @@
 		"oA": 0,
 		"oAP": "\/img\/JackpotRecording.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/LogCabin.jpg": {
 		"ft": 16384,
@@ -329,7 +346,8 @@
 		"oA": 0,
 		"oAP": "\/img\/LogCabin.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/MadOakStudios.jpg": {
 		"ft": 16384,
@@ -337,15 +355,18 @@
 		"oA": 0,
 		"oAP": "\/img\/MadOakStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/map.png": {
 		"ft": 32768,
 		"iS": 198845,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/map.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/marker.svg": {
 		"ft": 2097152,
@@ -360,10 +381,12 @@
 	"\/img\/MixOneStudios.png": {
 		"ft": 32768,
 		"iS": 1853008,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/MixOneStudios.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/Mpk.sketch": {
 		"ft": 8192,
@@ -377,7 +400,8 @@
 		"oA": 0,
 		"oAP": "\/img\/NRGStudios.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/OmegaStudios.jpg": {
 		"ft": 16384,
@@ -385,7 +409,8 @@
 		"oA": 0,
 		"oAP": "\/img\/OmegaStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/OrbitAudio.jpg": {
 		"ft": 16384,
@@ -393,7 +418,8 @@
 		"oA": 0,
 		"oAP": "\/img\/OrbitAudio.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/Patchwerk.jpg": {
 		"ft": 16384,
@@ -401,7 +427,8 @@
 		"oA": 0,
 		"oAP": "\/img\/Patchwerk.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/pins.svg": {
 		"ft": 2097152,
@@ -419,7 +446,8 @@
 		"oA": 0,
 		"oAP": "\/img\/PlushStudios.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/related\/ImageTiltEffect.jpg": {
 		"ft": 16384,
@@ -427,15 +455,18 @@
 		"oA": 0,
 		"oAP": "\/img\/related\/ImageTiltEffect.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/related\/TooltipStylesInspiration.png": {
 		"ft": 32768,
 		"iS": 46378,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/related\/TooltipStylesInspiration.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/RobertLangStudios.jpeg": {
 		"ft": 16384,
@@ -443,7 +474,8 @@
 		"oA": 0,
 		"oAP": "\/img\/RobertLangStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/RoyalHouseRecording.jpg": {
 		"ft": 16384,
@@ -451,7 +483,8 @@
 		"oA": 0,
 		"oAP": "\/img\/RoyalHouseRecording.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/SoundProductions.jpg": {
 		"ft": 16384,
@@ -459,7 +492,8 @@
 		"oA": 0,
 		"oAP": "\/img\/SoundProductions.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/sponsor\/AcuityScheduling_logo.svg": {
 		"ft": 2097152,
@@ -477,15 +511,18 @@
 		"oA": 0,
 		"oAP": "\/img\/Swinghouse.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/tests\/map.png": {
 		"ft": 32768,
 		"iS": 1160266,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/tests\/map.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/tests\/mapSpots.svg": {
 		"ft": 2097152,
@@ -513,7 +550,8 @@
 		"oA": 0,
 		"oAP": "\/img\/TheBridgeRecording.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/VintageKing.jpg": {
 		"ft": 16384,
@@ -521,15 +559,18 @@
 		"oA": 0,
 		"oAP": "\/img\/VintageKing.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/WestlakePro.png": {
 		"ft": 32768,
 		"iS": 237724,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/WestlakePro.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/WireRoadStudios.jpg": {
 		"ft": 16384,
@@ -537,7 +578,8 @@
 		"oA": 0,
 		"oAP": "\/img\/WireRoadStudios.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -1371,6 +1413,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1850,6 +1896,10 @@
 		"no-with": {
 			"active": 0,
 			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"object-curly-newline": {
 			"active": 0,
@@ -2450,7 +2500,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2543,7 +2594,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
